@@ -1,0 +1,34 @@
+.all{
+    display: flex;
+}
+.onebtn{
+    width: 105px;
+    height: 25px;
+    background-color: rgb(152, 224, 134);
+    color: rgb(190, 25, 25);
+    border-radius:10px;
+    border:none;
+    font: size 20px;
+    font: weight 500px;
+}
+.secbtn{
+    margin-left: 10px;
+    width: 60px;
+    height: 25px;
+    background-color: rgb(152, 224, 134);
+    color: rgb(190, 25, 25);
+    border-radius: 10px;
+    border: none;
+    font: size 20px;
+    font: weight 500px;
+}
+.thirdbtn{
+    width: 120px;
+    height: 25px;
+    background-color: rgb(152, 224, 134);
+    color: rgb(190, 25, 25);
+    border-radius:10px;
+    border:none;
+    font: size 20px;
+    font: weight 500px;
+}
